@@ -1,0 +1,19 @@
+# Pinokio 설치/런타임 산출물 (구독자 설치 시 생성 — repo에 올리지 않음)
+app/env/
+app/work/
+app/cache/
+app/models/
+cache/
+logs/
+**/__pycache__/
+*.pyc
+
+# AI 코딩 에이전트 개발 지침 (공개 불필요)
+.clinerules
+.cursorrules
+.windsurfrules
+.geminiignore
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+QWEN.md

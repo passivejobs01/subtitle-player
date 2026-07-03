@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faster-whisper
+httpx
+yt-dlp
+python-multipart
+transformers>=4.40,<5
+sentencepiece
+lingua-language-detector
